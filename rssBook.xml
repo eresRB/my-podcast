@@ -1,1 +1,39 @@
-qwe
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>For RS</title>
+  <link>https://drive.google.com/drive/folders/FOLDER_ID</link>
+  <language>ru-ru</language>
+  <itunes:author>Ruslan</itunes:author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://example.com/cover.jpg"/>
+  <itunes:category text="Music"/>
+
+ <!-- iTunes / Spotify -->
+  <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1DB_eYN_a7JBHIeazdzNy9ptd7wIEaB9J"/>
+
+  <!-- Старые RSS-плееры -->
+  <image>
+    <url>https://drive.google.com/uc?export=view&amp;id=1DB_eYN_a7JBHIeazdzNy9ptd7wIEaB9J</url>
+    <title>For RS</title>
+    <link>https://eresRB.github.io/my-podcast/rss.xml</link>
+  </image>
+
+  <!-- Трек 1 -->
+  <item>
+    <title>No Grave For Me  †  DeadBone</title>
+    <description>No Grave For Me  †  DeadBone</description>
+    <link>https://drive.google.com/uc?export=download&amp;id=1P_xpTNfOhjE0Gl3ghokLC1VW3m7-Iwud</link>
+    <guid>https://drive.google.com/uc?export=download&amp;id=1P_xpTNfOhjE0Gl3ghokLC1VW3m7-Iwud</guid>
+    <pubDate>Fri, 15 Aug 2025 12:00:00 +0300</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P_xpTNfOhjE0Gl3ghokLC1VW3m7-Iwud" length="670573011" type="audio/mpeg"/>
+    <itunes:duration>11:38:31</itunes:duration>
+  </item>
+
+ 
+
+  <!-- Добавляй новые <item> по аналогии для каждого трека -->
+
+</channel>
+</rss>
