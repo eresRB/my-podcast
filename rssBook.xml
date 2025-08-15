@@ -31,6 +31,17 @@
     <itunes:duration>01:30:28</itunes:duration>
   </item>
 
+ <!-- Трек 2 -->
+  <item>
+    <title>Песни Гипериона 01. 11 - 40</title>
+    <description>Симмонс Дэн - Песни Гипериона 01. Гиперион</description>
+    <link>https://drive.google.com/uc?export=download&amp;id=1TU1KTU77T_JppPDDYBKvJB0DQUBenGNG</link>
+    <guid>https://drive.google.com/uc?export=download&amp;id=1TU1KTU77T_JppPDDYBKvJB0DQUBenGNG</guid>
+    <pubDate>Fri, 15 Aug 2025 12:00:00 +0300</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TU1KTU77T_JppPDDYBKvJB0DQUBenGNG" length="140263567" type="audio/mpeg"/>
+    <itunes:duration>02:26:06</itunes:duration>
+  </item>
+
  
 
   <!-- Добавляй новые <item> по аналогии для каждого трека -->
