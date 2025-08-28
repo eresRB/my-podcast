@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Mus for AnnA</title>
+  <link>https://drive.google.com/drive/folders/FOLDER_ID</link>
+  <language>ru-ru</language>
+  <itunes:author>Ann</itunes:author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1DB_eYN_a7JBHIeazdzNy9ptd7wIEaB9J"/>
+  <itunes:category text="Book"/>
+
+ <!-- iTunes / Spotify -->
+  <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1DB_eYN_a7JBHIeazdzNy9ptd7wIEaB9J"/>
+
+  <!-- Старые RSS-плееры -->
+  <image>
+    <url>https://drive.google.com/uc?export=view&amp;id=1DB_eYN_a7JBHIeazdzNy9ptd7wIEaB9J</url>
+    <title>Books For RS</title>
+    <link>https://eresRB.github.io/my-podcast/rss.xml</link>
+  </image>
+
+  <!-- Трек 1 -->
+  <item>
+    <title>Running Music 2024 - Best Running Music (1).mp3</title>
+    <description>music</description>
+    <link>https://drive.google.com/uc?export=download&amp;id=1t9IXWzynsqZbGA1d6IsLfQNTysRGtrlq</link>
+    <guid>https://drive.google.com/uc?export=download&amp;id=1t9IXWzynsqZbGA1d6IsLfQNTysRGtrlq</guid>
+    <pubDate>Fri, 15 Aug 2025 12:00:00 +0300</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t9IXWzynsqZbGA1d6IsLfQNTysRGtrlq" length="56411814" type="audio/mpeg"/>
+    <itunes:duration>00:58:45</itunes:duration>
+  </item>
+
+ <!-- Трек 2 -->
+  <item>
+    <title>Mus</title>
+    <description>music</description>
+    <link>https://drive.google.com/uc?export=download&amp;id=1P1WWILtmQ66e_cvFfvDvzVYVmpOFYAe6</link>
+    <guid>https://drive.google.com/uc?export=download&amp;id=1P1WWILtmQ66e_cvFfvDvzVYVmpOFYAe6</guid>
+    <pubDate>Fri, 15 Aug 2025 12:00:00 +0300</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P1WWILtmQ66e_cvFfvDvzVYVmpOFYAe6" length="67715436" type="audio/mpeg"/>
+    <itunes:duration>01:10:32</itunes:duration>
+  </item>
+
+  <!-- Добавляй новые <item> по аналогии для каждого трека -->
+
+</channel>
+</rss>
